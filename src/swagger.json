@@ -27,7 +27,7 @@
                     "type": "string"
                   }
                 },
-                "examples": {
+                "example": {
                   "name": "Category name sample",
                   "description": "Category description sample"
                 }
