@@ -4,3 +4,4 @@ node_modules
 *.csv
 tmp/
 .env
+coverage/
