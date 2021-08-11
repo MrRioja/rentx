@@ -15,7 +15,7 @@ const createCategoryController = new CreateCategoryController();
 const importCategoryController = new ImportCategoryController();
 const listCategoriesController = new ListCategoriesController();
 
-const uploadAvatar = multer(uploadConfig.upload("./tmp"));
+const uploadAvatar = multer(uploadConfig);
 
 categoriesRoutes.post(
   "/",
