@@ -2,6 +2,9 @@ node_modules
 .vscode
 *.lock
 *.csv
-tmp/
+tmp/*
 .env
 coverage/
+!tmp/.gitkeep
+dist
+ormconfig.json
