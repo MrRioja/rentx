@@ -45,7 +45,7 @@ A documentação da API foi disponibilizada em swagger e as instruções para su
 
 Deixo abaixo a modelagem do banco de dados da aplicação para um rápida visualização da estrutura que foi construída para essa API:
 
-![Modelagem da aplicação](.vscode/App%20structure.png)
+![Modelagem da aplicação](.github/App%20structure.png)
 
 ## Instalação
 
